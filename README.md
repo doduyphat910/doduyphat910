@@ -43,13 +43,13 @@ https://simpleicons.org/
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Where to find me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/doduyphat" target="blank">
+  <!-- <a href="https://www.facebook.com/doduyphat" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="doduyphat-facebook" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/doduyphat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="doduyphat-linkedin" />
   </a>
